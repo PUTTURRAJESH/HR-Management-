@@ -1,1 +1,3 @@
-# HR-Management-
+# HR-Management
+
+An HR Management System (HRMS) is a software application designed to manage and streamline human resource functions within an organization. It typically includes features for employee information management, recruitment, attendance tracking, performance evaluation, payroll processing, benefits administration, and compliance with labor laws. An HRMS improves efficiency by automating routine tasks, providing data insights, and enhancing communication between HR departments and employees. This GitHub repository contains the source code, documentation, and installation guidelines for setting up and customizing the HR Management System to meet specific organizational needs.
